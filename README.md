@@ -128,6 +128,8 @@ Dark counts, mode mismatch, finite indistinguishability, correlated loss, multip
 
 The work is complementary to, rather than a replacement for, established general results on linear-optical Bell limits and loss thresholds. It is motivated in part by the 2026 logical Bell-state measurement experiment of S. Kumar, S. D. Reiss, P. van Loock, and S. Barz, while addressing a distinct finite-erasure optimization problem for the distance-three non-CSS five-qubit code.
 
+10.5281/zenodo.22712593
+
 ## Reproducibility philosophy
 
 The public verifier is deliberately small, readable, and exact. The key claims are checked with integer arithmetic, finite-field logic, bit masks, and Python's `fractions.Fraction`. No hidden data files are needed.
